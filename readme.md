@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **Machine Learning Engineer** with 3 + years of experience delivering production-ready AI solutions in **healthcare, robotics, smart-buildings, and semiconductors**. My toolbox spans computer vision, deep learning, large-language models, and data science—turning complex challenges into scalable, high-impact products.
+I’m a **Machine Learning Engineer** with 5 + years of experience delivering production-ready AI solutions in **healthcare, robotics, smart-buildings, and semiconductors**. My toolbox spans computer vision, deep learning, large-language models, and data science—turning complex challenges into scalable, high-impact products.
 
 ### 💡 Expertise & Innovation
 * Cutting-edge CV / image-processing with **PyTorch, TensorFlow, YOLO, OpenCV**  
@@ -43,16 +43,8 @@ I’m a **Machine Learning Engineer** with 3 + years of experience delivering pr
 
 | **AI / CV** | **Data & DevOps** | **Web / UI** |
 |-------------|------------------|--------------|
-| `PyTorch` • `TensorFlow` • `YOLOv8` • `SAM-2` | `Python` • `FastAPI` • `Docker` • `AWS` • `GCP` | `React` • `Next.js` • `WebGL` • `Three.js` |
+| `PyTorch` • `TensorFlow` • `YOLOv8` • `SAM-2` | `Python` • `FastAPI` • `Docker` • `AWS` • `GCP` | `React` • `Next.js` • `WebGL` • `Three.js` • `Fabric.js` |
 | `OpenCV` • `Ultralytics` • `onnxruntime` | `Airflow` • `Spark` • `PostgreSQL` | `TailwindCSS` • `Material-UI` |
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-zeeshan-afzal&show_icons=true&theme=default&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-zeeshan-afzal&layout=compact&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
