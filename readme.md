@@ -38,16 +38,6 @@ I’m a **Machine Learning Engineer** with 3 + years of experience delivering pr
 
 ---
 
-## 📂 Featured Projects
-| Project | Tech | What it is |
-|---------|------|------------|
-| **[next-sam](https://github.com/i-zeeshan-afzal/next-sam)** | Next.js • WebGPU • SAM-2 | Client-side image segmentation using Meta’s Segment Anything V2 |
-| **[asr_streamlit](https://github.com/i-zeeshan-afzal/asr_streamlit)** | Streamlit • Whisper | Quick speech-to-text demo in the browser |
-| **[asr_models_api](https://github.com/i-zeeshan-afzal/asr_models_api)** | FastAPI • Docker | Lightweight inference API for production ASR |
-| **[TTS (fork)](https://github.com/i-zeeshan-afzal/TTS)** | Coqui-AI • PyTorch | Multilingual text-to-speech research and fine-tuning |
-| **[CustomSliderMaterialUI](https://github.com/i-zeeshan-afzal/CustomSliderMaterialUI)** | React • MUI | Highly stylised, accessible slider component |
-
----
 
 ## 🛠 Tech Stack & Tools
 
@@ -69,7 +59,6 @@ I’m a **Machine Learning Engineer** with 3 + years of experience delivering pr
 ## 📫 Let’s Connect
 - **Portfolio:** <https://zeeshan.me.uk/>
 - **LinkedIn:** <https://www.linkedin.com/in/i-zeeshan-afzal/> <!-- update if different -->
-- **Email:** ↳ `hello@zeeshan.me.uk`
-- **Telegram:** `@ZeeshanAI`
+- **Email:** ↳ `izeeshanafzal@outlook.com`
 
 <sub>⚡ Fun fact: My “Hello World” in robotics involved teaching a Lego arm to sort M&Ms by colour 🚀 </sub>
