@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Computer Vision-PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="CV" />
   <img src="https://img.shields.io/badge/Edge AI-Jetson-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson" />
   <img src="https://img.shields.io/badge/LLMs-GPT 3.5/4-6125d8?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-  <img src="https://img.shields.io/badge/Front-end-React-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
 ---
