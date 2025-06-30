@@ -49,7 +49,7 @@ I’m a **Machine Learning Engineer** with 5 + years of experience delivering pr
 ---
 
 ## 📫 Let’s Connect
-- **Portfolio:** <https://zeeshan.me.uk/>
+- **Portfolio:** <https://zeeshan-afzal.com/>
 - **LinkedIn:** <https://www.linkedin.com/in/i-zeeshan-afzal/> <!-- update if different -->
 - **Email:** ↳ `izeeshanafzal@outlook.com`
 
